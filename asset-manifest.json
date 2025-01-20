@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ea83dc1c.css",
+    "main.js": "/portfolio/static/js/main.15fe4ebf.js",
+    "static/js/453.d37fad1c.chunk.js": "/portfolio/static/js/453.d37fad1c.chunk.js",
+    "static/media/mahadev_jana1.jpg": "/portfolio/static/media/mahadev_jana1.61545b291b0b70626cf0.jpg",
+    "static/media/FB_IMG_1736439131744.jpg": "/portfolio/static/media/FB_IMG_1736439131744.2181c4cea1ed71cea3b0.jpg",
+    "static/media/mahadev_jana.jpg": "/portfolio/static/media/mahadev_jana.977e9e41297284e8bee6.jpg",
+    "static/media/bootstrap-icons.woff?": "/portfolio/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/mahadevjana.pdf": "/portfolio/static/media/mahadevjana.2cef8bee7d81a767be83.pdf",
+    "static/media/bootstrap-icons.woff2?": "/portfolio/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/collage.jpg": "/portfolio/static/media/collage.f115760f0c1b4f101bc7.jpg",
+    "static/media/school.jpg": "/portfolio/static/media/school.41555b8f47e6bc015764.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.ea83dc1c.css.map": "/portfolio/static/css/main.ea83dc1c.css.map",
+    "main.15fe4ebf.js.map": "/portfolio/static/js/main.15fe4ebf.js.map",
+    "453.d37fad1c.chunk.js.map": "/portfolio/static/js/453.d37fad1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea83dc1c.css",
+    "static/js/main.15fe4ebf.js"
+  ]
+}
