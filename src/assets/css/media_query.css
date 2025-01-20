@@ -1,0 +1,27 @@
+@media only screen and (min-width: 992px) {
+    .nav_custom_border{
+        border-bottom: none;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .section2 > div > div{
+        height: 80%;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .section2 > div > div > .div1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    .nav_custom_border{
+        border-bottom: none;
+    }
+}
